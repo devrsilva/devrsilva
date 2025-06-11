@@ -1,4 +1,5 @@
-# Prazer! Eu sou o Ryan 👋
+# Bem-vindo ao meu GitHub!👨‍💻
+Me chamo **Ryan Silva** e aqui você encontra um pouco da minha jornada.
 
 Estudante em formação com foco em desenvolvimento web, apaixonado por tecnologia e em constante evolução no mundo da programação.
 
